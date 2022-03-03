@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RvJfcoJJS21sGCYXOiB8m3BKHMaE1TA2EXx7opXVuSUjbFFmKZqTUFUzpr1K4y1Yy7nPkB4wNfVfOMrj8MUswg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vit20\\source\\repos\\HW3\\HW3_12\\HW3_12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vit20\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

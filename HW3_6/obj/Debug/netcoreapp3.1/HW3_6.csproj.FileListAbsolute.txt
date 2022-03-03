@@ -1,0 +1,13 @@
+C:\Users\vit20\source\repos\HW3\HW3_6\bin\Debug\netcoreapp3.1\HW3_6.exe
+C:\Users\vit20\source\repos\HW3\HW3_6\bin\Debug\netcoreapp3.1\HW3_6.deps.json
+C:\Users\vit20\source\repos\HW3\HW3_6\bin\Debug\netcoreapp3.1\HW3_6.runtimeconfig.json
+C:\Users\vit20\source\repos\HW3\HW3_6\bin\Debug\netcoreapp3.1\HW3_6.runtimeconfig.dev.json
+C:\Users\vit20\source\repos\HW3\HW3_6\bin\Debug\netcoreapp3.1\HW3_6.dll
+C:\Users\vit20\source\repos\HW3\HW3_6\bin\Debug\netcoreapp3.1\HW3_6.pdb
+C:\Users\vit20\source\repos\HW3\HW3_6\obj\Debug\netcoreapp3.1\HW3_6.csprojAssemblyReference.cache
+C:\Users\vit20\source\repos\HW3\HW3_6\obj\Debug\netcoreapp3.1\HW3_6.AssemblyInfoInputs.cache
+C:\Users\vit20\source\repos\HW3\HW3_6\obj\Debug\netcoreapp3.1\HW3_6.AssemblyInfo.cs
+C:\Users\vit20\source\repos\HW3\HW3_6\obj\Debug\netcoreapp3.1\HW3_6.csproj.CoreCompileInputs.cache
+C:\Users\vit20\source\repos\HW3\HW3_6\obj\Debug\netcoreapp3.1\HW3_6.dll
+C:\Users\vit20\source\repos\HW3\HW3_6\obj\Debug\netcoreapp3.1\HW3_6.pdb
+C:\Users\vit20\source\repos\HW3\HW3_6\obj\Debug\netcoreapp3.1\HW3_6.genruntimeconfig.cache
